@@ -25,5 +25,116 @@
             "commonName": "Lions Mane",
             "color": "brown"
           }
+    ],
+    "retailers": [
+        {
+            "id": 1,
+            "name": "FlowitUs",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "address":"1234 Main Street"
+          },
+          {
+            "id": 2,
+            "name": "Bloomin",
+            "city": "Tampa",
+            "state": "Florida",
+            "address":"5669 State Street"
+          },
+          {
+            "id": 3,
+            "name": "Pedalz",
+            "city": "Memphis",
+            "state": "Tennessee",
+            "address":"1030 Sweet Blvd"
+          },
+          {
+            "id": 4,
+            "name": "RoseRus",
+            "city": "Seattle",
+            "state": "Washington",
+            "address":"991 Helpus Circle"
+          },
+          {
+            "id": 5,
+            "name": "PlantLife",
+            "city": "New York",
+            "state": "New York",
+            "address":"1st Street West"
+          }
+    ],
+    "distributors": [
+        {
+            "id": 1,
+            "name": "FlowitUs",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "address":"1234 Main Street"
+          },
+          {
+            "id": 2,
+            "name": "FlowitUs",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "address":"1234 Main Street"
+          },
+          {
+            "id": 3,
+            "name": "FlowitUs",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "address":"1234 Main Street"
+          },
+          {
+            "id": 4,
+            "name": "FlowitUs",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "address":"1234 Main Street"
+          },
+          {
+            "id": 5,
+            "name": "FlowitUs",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "address":"1234 Main Street"
+          }
+    ],
+    "nurseries": [
+        {
+            "id": 1,
+            "name": "FlowitUs",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "address":"1234 Main Street"
+          },
+          {
+            "id": 2,
+            "name": "FlowitUs",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "address":"1234 Main Street"
+          },
+          {
+            "id": 3,
+            "name": "FlowitUs",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "address":"1234 Main Street"
+          },
+          {
+            "id": 4,
+            "name": "FlowitUs",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "address":"1234 Main Street"
+          },
+          {
+            "id": 5,
+            "name": "FlowitUs",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "address":"1234 Main Street"
+          }
     ]
 }
