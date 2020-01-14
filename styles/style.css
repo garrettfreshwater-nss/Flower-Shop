@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade|Faster+One|Modak|Vast+Shadow&display=swap');
+/* 
+font-family: 'Modak', cursive;
+font-family: 'Vast Shadow', cursive;
+font-family: 'Faster One', cursive;
+font-family: 'Bungee Shade', cursive; */
+
+body {
+    margin: auto;
+    background-color: lightsteelblue;
+    font-size: 25px;
+}
+
+main {
+    display: block;
+    margin: 0 5rem 0 5rem;
+}
+
+.header__title {
+    font-family: 'Bungee Shade', cursive;
+    text-align: center;
+    font-size: 4rem; 
+}
+
+.flowerList {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.retailerList {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.distributorList {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+}
